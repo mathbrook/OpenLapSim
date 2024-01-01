@@ -128,7 +128,7 @@ if __name__ == '__main__':
     # SetupFile.json
     setupFileName = "SetupFile.json"
     # TrackFile.txt
-    trackFileName = "TrackFile.txt"
+    trackFileName = "MichiganEndurance2014.txt"
     # Additional Options
     bExport = 1
     bPlot = 1
